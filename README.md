@@ -6,7 +6,7 @@ Happy Times at the IKOB was designed by [Lucas Le Bihan](http://dreamsoffice.fr/
 
 ## Specimen
 
-![Ikob](tree/master/documentation/images/ikob_3.jpg)
+![Ikob](documentation/images/ikob_3.jpg)
 
 ## License
 
