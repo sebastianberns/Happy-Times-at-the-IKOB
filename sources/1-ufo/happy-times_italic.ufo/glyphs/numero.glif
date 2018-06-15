@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="1">
+  <advance width="2191"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="1941" y="70" type="line"/>
+      <point x="1318" y="70" type="line"/>
+      <point x="1318" y="0" type="line"/>
+      <point x="1941" y="0" type="line"/>
+    </contour>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="1478" yOffset="-241"/>
+  </outline>
+</glyph>

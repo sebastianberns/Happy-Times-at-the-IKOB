@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.ss03" format="1">
+  <advance width="705"/>
+  <outline>
+    <contour>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="1355" type="line"/>
+      <point x="100" y="1355" type="line"/>
+      <point x="100" y="1295" type="line"/>
+      <point x="307" y="1295" type="line"/>
+      <point x="307" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="80" type="line"/>
+      <point x="287" y="60" type="line"/>
+      <point x="124" y="60" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="665" y="0" type="line"/>
+      <point x="665" y="60" type="line"/>
+      <point x="502" y="60" type="line"/>
+      <point x="482" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5309</real>
+        <real>0.7309</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

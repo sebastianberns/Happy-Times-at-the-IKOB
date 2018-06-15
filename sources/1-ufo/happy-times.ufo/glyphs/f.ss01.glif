@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.ss01" format="1">
+  <advance width="637"/>
+  <outline>
+    <contour>
+      <point x="40" y="844" type="line"/>
+      <point x="629" y="844" type="line"/>
+      <point x="629" y="919" type="line"/>
+      <point x="40" y="919" type="line"/>
+    </contour>
+    <contour>
+      <point x="847" y="1074" type="line"/>
+      <point x="877" y="1215" type="line"/>
+      <point x="857" y="1235" type="line"/>
+      <point x="456" y="1212" type="line" smooth="yes"/>
+      <point x="348" y="1206"/>
+      <point x="336" y="1156"/>
+      <point x="198" y="919" type="curve"/>
+      <point x="198" y="68" type="line"/>
+      <point x="373" y="68" type="line"/>
+      <point x="373" y="919" type="line"/>
+      <point x="360" y="960" type="line" smooth="yes"/>
+      <point x="340" y="1024"/>
+      <point x="356" y="1074"/>
+      <point x="448" y="1074" type="curve"/>
+    </contour>
+    <contour>
+      <point x="198" y="80" type="line"/>
+      <point x="178" y="60" type="line"/>
+      <point x="55" y="60" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="60" type="line"/>
+      <point x="393" y="60" type="line"/>
+      <point x="373" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5158</real>
+        <real>0.1993</real>
+        <real>0.9852</real>
+        <real>0.7</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

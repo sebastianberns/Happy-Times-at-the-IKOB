@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="584"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="396" y="1157" type="line"/>
+      <point x="594" y="1157" type="line"/>
+      <point x="594" y="1355" type="line"/>
+      <point x="396" y="1355" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="127" type="line"/>
+      <point x="430" y="662" type="line" smooth="yes"/>
+      <point x="477" y="812"/>
+      <point x="457" y="874"/>
+      <point x="402" y="919" type="curve"/>
+      <point x="296" y="919" type="line"/>
+      <point x="238" y="875"/>
+      <point x="156" y="778"/>
+      <point x="70" y="643" type="curve"/>
+      <point x="140" y="643" type="line"/>
+      <point x="224" y="764"/>
+      <point x="258" y="798"/>
+      <point x="273" y="812" type="curve"/>
+      <point x="293" y="792" type="line"/>
+      <point x="124" y="214" type="line" smooth="yes"/>
+      <point x="93" y="109"/>
+      <point x="110" y="37"/>
+      <point x="179" y="0" type="curve"/>
+      <point x="263" y="0" type="line"/>
+      <point x="334" y="58"/>
+      <point x="430" y="184"/>
+      <point x="489" y="276" type="curve"/>
+      <point x="419" y="276" type="line"/>
+      <point x="364" y="198"/>
+      <point x="306" y="132"/>
+      <point x="282" y="107" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>76.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>184</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

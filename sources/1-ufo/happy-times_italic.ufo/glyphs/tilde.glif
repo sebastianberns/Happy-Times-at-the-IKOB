@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="698"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="658" y="1355" type="curve"/>
+      <point x="599" y="1355" type="line"/>
+      <point x="599" y="1305"/>
+      <point x="568" y="1246"/>
+      <point x="498" y="1246" type="curve"/>
+      <point x="408" y="1246"/>
+      <point x="360" y="1345"/>
+      <point x="240" y="1345" type="curve"/>
+      <point x="100" y="1345"/>
+      <point x="50" y="1217"/>
+      <point x="40" y="1127" type="curve"/>
+      <point x="99" y="1127" type="line"/>
+      <point x="99" y="1177"/>
+      <point x="130" y="1237"/>
+      <point x="200" y="1237" type="curve"/>
+      <point x="290" y="1237"/>
+      <point x="339" y="1137"/>
+      <point x="459" y="1137" type="curve"/>
+      <point x="599" y="1137"/>
+      <point x="648" y="1265"/>
+    </contour>
+    <contour>
+      <point x="349.0" y="959" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>296</integer>
+          <key>y</key>
+          <integer>1127</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

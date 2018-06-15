@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute.ss01" format="1">
+  <advance width="1310"/>
+  <outline>
+    <contour>
+      <point x="470" y="660" type="line"/>
+      <point x="865" y="660" type="line"/>
+      <point x="885" y="640" type="line"/>
+      <point x="885" y="510" type="line"/>
+      <point x="955" y="510" type="line"/>
+      <point x="955" y="910" type="line"/>
+      <point x="885" y="910" type="line"/>
+      <point x="885" y="780" type="line"/>
+      <point x="865" y="760" type="line"/>
+      <point x="470" y="760" type="line"/>
+      <point x="470" y="1355" type="line"/>
+      <point x="90" y="1355" type="line"/>
+      <point x="90" y="1285" type="line"/>
+      <point x="245" y="1285" type="line"/>
+      <point x="265" y="1265" type="line"/>
+      <point x="265" y="90" type="line"/>
+      <point x="245" y="70" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1210" y="405" type="line"/>
+      <point x="1140" y="405" type="line"/>
+      <point x="1140" y="310" type="line"/>
+      <point x="1140" y="150"/>
+      <point x="1080" y="116"/>
+      <point x="940" y="116" type="curve"/>
+      <point x="470" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="972" type="line"/>
+      <point x="1087" y="1237" type="line"/>
+      <point x="977" y="1351" type="line"/>
+      <point x="597" y="972" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5158</real>
+        <real>0.1993</real>
+        <real>0.9852</real>
+        <real>0.7</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.ss02" format="1">
+  <advance width="960"/>
+  <outline>
+    <contour>
+      <point x="620" y="0" type="line"/>
+      <point x="284" y="839" type="line"/>
+      <point x="304" y="859" type="line"/>
+      <point x="399" y="859" type="line"/>
+      <point x="399" y="919" type="line"/>
+      <point x="0" y="919" type="line"/>
+      <point x="0" y="859" type="line"/>
+      <point x="69" y="859" type="line"/>
+      <point x="89" y="839" type="line"/>
+      <point x="450" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="702" y="721" type="line"/>
+      <point x="900" y="721" type="line"/>
+      <point x="900" y="919" type="line"/>
+      <point x="702" y="919" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>624</integer>
+          <key>y</key>
+          <integer>278</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9798</real>
+        <real>0.1633</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

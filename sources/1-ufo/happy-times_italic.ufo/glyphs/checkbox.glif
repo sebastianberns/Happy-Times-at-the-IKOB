@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checkbox" format="1">
+  <advance width="999"/>
+  <unicode hex="2610"/>
+  <outline>
+    <contour>
+      <point x="959" y="0" type="line"/>
+      <point x="959" y="919" type="line"/>
+      <point x="40" y="919" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="889" y="70" type="line"/>
+      <point x="110" y="70" type="line"/>
+      <point x="110" y="849" type="line"/>
+      <point x="889" y="849" type="line"/>
+    </contour>
+  </outline>
+</glyph>

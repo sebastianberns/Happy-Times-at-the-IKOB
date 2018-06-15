@@ -1,0 +1,55 @@
+languagesystem latn dflt;
+
+feature liga {
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub T h by T_h; 
+} liga ;
+
+feature case {
+    sub hyphen by hyphen.cap;
+    sub exclamdown by exclamdown.cap; 
+    sub questiondown by questiondown.cap;
+    sub guilsinglleft by guilsinglleft.cap;
+    sub guilsinglright by guilsinglright.cap;
+    sub guillemotleft by guillemotleft.cap;
+    sub guillemotright by guillemotright.cap;
+    sub parenleft by parenleft.cap;
+    sub parenright by parenright.cap;
+    sub braceleft by braceleft.cap;
+    sub braceright by braceright.cap;
+    sub endash by endash.cap;
+    sub emdash by emdash.cap;
+    sub periodcentered by periodcentered.cap;
+    sub bracketleft by bracketleft.cap;
+    sub bracketright by bracketright.cap;
+} case;
+
+feature ss04{
+    sub zero by circleddigitzero;
+    sub one by circleddigitone;
+    sub two by circleddigittwo;
+    sub three by circleddigitthree;
+    sub four by circleddigitfour;
+    sub five by circleddigitfive;
+    sub six by circleddigitsix;
+    sub seven by circleddigitseven;
+    sub eight by circleddigiteight;
+    sub nine by circleddigitnine;
+}ss04;
+
+feature ss05{
+    sub zero by squareddigitzero;
+    sub one by squareddigitone;
+    sub two by squareddigittwo;
+    sub three by squareddigitthree;
+    sub four by squareddigitfour;
+    sub five by squareddigitfive;
+    sub six by squareddigitsix;
+    sub seven by squareddigitseven;
+    sub eight by squareddigiteight;
+    sub nine by squareddigitnine;
+}ss05;

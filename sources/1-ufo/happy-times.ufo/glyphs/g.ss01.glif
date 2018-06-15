@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.ss01" format="1">
+  <advance width="926"/>
+  <outline>
+    <contour>
+      <point x="933" y="-99" type="line"/>
+      <point x="913" y="-79" type="line"/>
+      <point x="342" y="-79" type="line" smooth="yes"/>
+      <point x="258" y="-79"/>
+      <point x="206" y="-50"/>
+      <point x="206" y="12" type="curve" smooth="yes"/>
+      <point x="206" y="124"/>
+      <point x="323" y="140"/>
+      <point x="443" y="140" type="curve"/>
+      <point x="443" y="180" type="line"/>
+      <point x="250" y="180" type="line"/>
+      <point x="250" y="160" type="line"/>
+      <point x="143" y="100"/>
+      <point x="30" y="41"/>
+      <point x="30" y="-85" type="curve" smooth="yes"/>
+      <point x="30" y="-162"/>
+      <point x="84" y="-229"/>
+      <point x="227" y="-230" type="curve"/>
+      <point x="903" y="-240" type="line"/>
+    </contour>
+    <contour>
+      <point x="571" y="824" type="line"/>
+      <point x="750" y="824" type="line"/>
+      <point x="750" y="844" type="line"/>
+      <point x="933" y="844" type="line"/>
+      <point x="933" y="919" type="line"/>
+      <point x="571" y="919" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="541" type="curve" smooth="yes"/>
+      <point x="20" y="321"/>
+      <point x="186" y="140"/>
+      <point x="443" y="140" type="curve" smooth="yes"/>
+      <point x="700" y="140"/>
+      <point x="866" y="331"/>
+      <point x="866" y="541" type="curve" smooth="yes"/>
+      <point x="866" y="764"/>
+      <point x="700" y="939"/>
+      <point x="443" y="939" type="curve" smooth="yes"/>
+      <point x="186" y="939"/>
+      <point x="20" y="754"/>
+    </contour>
+    <contour>
+      <point x="221" y="594" type="curve" smooth="yes"/>
+      <point x="221" y="744"/>
+      <point x="287" y="869"/>
+      <point x="422" y="869" type="curve" smooth="yes"/>
+      <point x="597" y="869"/>
+      <point x="665" y="674"/>
+      <point x="665" y="489" type="curve" smooth="yes"/>
+      <point x="665" y="353"/>
+      <point x="611" y="210"/>
+      <point x="463" y="210" type="curve"/>
+      <point x="296" y="210"/>
+      <point x="221" y="392"/>
+    </contour>
+    <contour>
+      <point x="443.0" y="959.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>backgroud</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>555</integer>
+                  <key>y</key>
+                  <integer>-236</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>853</integer>
+                  <key>y</key>
+                  <integer>-240</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>873</integer>
+                  <key>y</key>
+                  <integer>-220</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>843</integer>
+                  <key>y</key>
+                  <integer>-79</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>x</key>
+                  <integer>562</integer>
+                  <key>y</key>
+                  <integer>-79</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>g.ss01</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>926</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5158</real>
+        <real>0.1993</real>
+        <real>0.9852</real>
+        <real>0.7</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

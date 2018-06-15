@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="612"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="period" xOffset="204" yOffset="711"/>
+    <component base="comma" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>74.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>248</integer>
+          <key>y</key>
+          <integer>251</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

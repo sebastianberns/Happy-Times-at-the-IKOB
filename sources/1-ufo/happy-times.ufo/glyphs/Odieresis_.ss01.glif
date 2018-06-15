@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis.ss01" format="1">
+  <advance width="1450"/>
+  <outline>
+    <contour>
+      <point x="648" y="1355" type="line"/>
+      <point x="470" y="1355" type="line"/>
+      <point x="470" y="1177" type="line"/>
+      <point x="648" y="1177" type="line"/>
+    </contour>
+    <contour>
+      <point x="769" y="1374" type="line"/>
+      <point x="774" y="1374"/>
+      <point x="760.0" y="1375.0"/>
+      <point x="745.0" y="1375.0" type="curve" smooth="yes"/>
+      <point x="716.0" y="1375.0"/>
+      <point x="687" y="1373"/>
+      <point x="679" y="1370" type="curve"/>
+      <point x="679" y="1295" type="line"/>
+      <point x="693" y="1295"/>
+      <point x="749" y="1292"/>
+      <point x="769" y="1280" type="curve"/>
+    </contour>
+    <contour>
+      <point x="980" y="1355" type="line"/>
+      <point x="802" y="1355" type="line"/>
+      <point x="802" y="1177" type="line"/>
+      <point x="980" y="1177" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="1308" type="line"/>
+      <point x="216" y="1212"/>
+      <point x="60.0" y="969.0"/>
+      <point x="60.0" y="655.0" type="curve" smooth="yes"/>
+      <point x="60.0" y="275.0"/>
+      <point x="325.0" y="-20.0"/>
+      <point x="705.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1105.0" y="-20.0"/>
+      <point x="1390.0" y="295.0"/>
+      <point x="1390.0" y="695.0" type="curve" smooth="yes"/>
+      <point x="1390.0" y="1006.0"/>
+      <point x="1238" y="1240"/>
+      <point x="1014" y="1322" type="curve"/>
+      <point x="1014" y="1135" type="line"/>
+      <point x="1101" y="1019"/>
+      <point x="1155.0" y="827.0"/>
+      <point x="1155.0" y="625.0" type="curve" smooth="yes"/>
+      <point x="1155.0" y="285.0"/>
+      <point x="1030.0" y="60.0"/>
+      <point x="770.0" y="60.0" type="curve"/>
+      <point x="470.0" y="60.0"/>
+      <point x="295.0" y="375.0"/>
+      <point x="295.0" y="725.0" type="curve" smooth="yes"/>
+      <point x="295.0" y="936.0"/>
+      <point x="345" y="1118"/>
+      <point x="437" y="1205" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5158</real>
+        <real>0.1993</real>
+        <real>0.9852</real>
+        <real>0.7</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

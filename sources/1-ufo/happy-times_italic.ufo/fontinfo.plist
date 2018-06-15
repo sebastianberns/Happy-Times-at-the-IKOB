@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1608</integer>
+	<key>capHeight</key>
+	<integer>1608</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2016 by Lucas Le Bihan. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-440</integer>
+	<key>familyName</key>
+	<string>Happy Times at the IKOB</string>
+	<key>italicAngle</key>
+	<integer>0</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2016 by Lucas Le Bihan. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Lucas Le Bihan</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.lucaslebihan.fr</string>
+	<key>openTypeNameLicense</key>
+	<string>Open Font License</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://fontforge.github.io/OFL-fr.html</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Lucas Le Bihan</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>bret</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-450</integer>
+		<integer>-440</integer>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>919</integer>
+		<integer>939</integer>
+		<integer>1355</integer>
+		<integer>1375</integer>
+	</array>
+	<key>postscriptDefaultWidthX</key>
+	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>-450</integer>
+		<integer>-440</integer>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>919</integer>
+		<integer>939</integer>
+		<integer>1355</integer>
+		<integer>1375</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>70</integer>
+		<integer>100</integer>
+		<integer>208</integer>
+		<integer>116</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>208</integer>
+		<integer>178</integer>
+		<integer>218</integer>
+		<integer>200</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-200</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>60</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Italic</string>
+	<key>trademark</key>
+	<string>Happy Times at the IKOB is a trademark of Lucas Le Bihan.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>919</integer>
+	<key>year</key>
+	<integer>2016</integer>
+</dict>
+</plist>

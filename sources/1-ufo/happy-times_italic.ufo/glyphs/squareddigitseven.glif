@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="squareddigitseven" format="1">
+  <advance width="1516"/>
+  <outline>
+    <contour>
+      <point x="1093" y="1085" type="line"/>
+      <point x="789" y="1085" type="line"/>
+      <point x="762" y="993" type="line"/>
+      <point x="988" y="993" type="line"/>
+      <point x="1000" y="981" type="line"/>
+      <point x="491" y="272" type="line"/>
+      <point x="614" y="272" type="line"/>
+      <point x="1105" y="1073" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="993" type="curve"/>
+      <point x="789" y="1085" type="line"/>
+      <point x="600" y="1085" type="line"/>
+      <point x="533" y="854" type="line"/>
+      <point x="575" y="854" type="line"/>
+      <point x="584" y="885" type="line" smooth="yes"/>
+      <point x="613" y="987"/>
+      <point x="646" y="993"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="1446" y="0" type="line"/>
+      <point x="1446" y="1355" type="line"/>
+      <point x="70" y="1355" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="1285" type="line"/>
+      <point x="1376" y="1285" type="line"/>
+      <point x="1376" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>
