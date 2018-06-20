@@ -6,6 +6,10 @@ Happy Times at the IKOB was designed by [Lucas Le Bihan](http://dreamsoffice.fr/
 
 This is a fork by [Sebastian Berns](http://sebastianberns.com/).
 
+### Modifications
+
+- Fix spacing: p, q, L
+
 ## Specimen
 
 ![Ikob](documentation/images/ikob_3.jpg)
