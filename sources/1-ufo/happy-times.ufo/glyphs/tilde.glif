@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tilde" format="1">
+<glyph name="tilde" format="2">
   <advance width="698"/>
   <unicode hex="02DC"/>
+  <guideline x="296" y="1127" angle="0" identifier="90bzabMw0d"/>
+  <anchor x="349" y="959" name="_top"/>
   <outline>
     <contour>
       <point x="658" y="1355" type="curve"/>
@@ -25,29 +27,11 @@
       <point x="599" y="1137"/>
       <point x="648" y="1265"/>
     </contour>
-    <contour>
-      <point x="349.0" y="959" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>296</integer>
-          <key>y</key>
-          <integer>1127</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.90bzabMw0d</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss01" format="2">
+  <advance width="485"/>
+  <outline>
+    <contour>
+      <point x="54" y="1189" type="line"/>
+      <point x="123" y="1217" type="line" smooth="yes"/>
+      <point x="153" y="1229"/>
+      <point x="167" y="1227"/>
+      <point x="167" y="1194" type="curve"/>
+      <point x="167" y="439" type="line"/>
+      <point x="342" y="439" type="line"/>
+      <point x="342" y="1358" type="line"/>
+      <point x="325" y="1378" type="line"/>
+      <point x="27" y="1244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

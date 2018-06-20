@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>com.typemytype.robofont.backgroud.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
+		<integer>1</integer>
 		<real>0.75</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.8</real>
 		<real>0.2</real>
 		<real>0.7</real>
@@ -35,120 +35,36 @@
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>315</integer>
-			<key>y</key>
-			<integer>50</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>722</integer>
-			<key>y</key>
-			<integer>1375</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>194</integer>
-			<key>y</key>
-			<integer>-440</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>281</integer>
-			<key>y</key>
-			<integer>1295</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>mid</string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>683</integer>
-			<key>y</key>
-			<integer>678</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>mid</string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>280</integer>
-			<key>y</key>
-			<integer>460</integer>
-		</dict>
-	</array>
+	<key>com.typemytype.robofont.guideline.magnetic.757xV7GU8U</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.FNjkLEgyZ2</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.HPdZ2hdjkl</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.S5XcPPSL4s</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.W89bycALXO</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.tx3F3LJ7Uq</key>
+	<integer>5</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.layerOrder</key>
-	<array>
-		<string>background</string>
-		<string>mask</string>
-	</array>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>1.0</real>
-		<real>0.0</real>
+		<integer>1</integer>
+		<integer>0</integer>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.sort</key>
+	<key>com.typesupply.defcon.sortDescriptor</key>
 	<array>
 		<dict>
 			<key>ascending</key>
@@ -671,6 +587,267 @@
 			<string>glyphList</string>
 		</dict>
 	</array>
+	<key>org.unifiedfontobject.normalizer.modTimes</key>
+	<string>version: 0a2
+1529533696.0 fontinfo.plist
+1529533696.0 glyphs/A_.glif
+1529533696.0 glyphs/A_E_.glif
+1529533696.0 glyphs/A_acute.glif
+1529533696.0 glyphs/A_circumflex.glif
+1529533696.0 glyphs/A_dieresis.glif
+1529533696.0 glyphs/A_grave.glif
+1529533696.0 glyphs/A_ring.glif
+1529533696.0 glyphs/A_tilde.glif
+1529533696.0 glyphs/B_.glif
+1529533696.0 glyphs/C_.glif
+1529533696.0 glyphs/C_R_.glif
+1529533696.0 glyphs/C_cedilla.glif
+1529533696.0 glyphs/D_.glif
+1529533696.0 glyphs/E_.glif
+1529533696.0 glyphs/E_acute.glif
+1529533696.0 glyphs/E_circumflex.glif
+1529533696.0 glyphs/E_dieresis.glif
+1529533696.0 glyphs/E_grave.glif
+1529533696.0 glyphs/E_uro.glif
+1529533696.0 glyphs/F_.glif
+1529533696.0 glyphs/G_.glif
+1529533696.0 glyphs/H_.glif
+1529533696.0 glyphs/I_.glif
+1529533696.0 glyphs/I_K_O_B_.glif
+1529533696.0 glyphs/I_K_O_B__logo.glif
+1529533696.0 glyphs/I_acute.glif
+1529533696.0 glyphs/I_circumflex.glif
+1529533696.0 glyphs/I_dieresis.glif
+1529533696.0 glyphs/I_grave.glif
+1529533696.0 glyphs/J_.glif
+1529533696.0 glyphs/K_.glif
+1529533696.0 glyphs/L_.glif
+1529533696.0 glyphs/M_.glif
+1529533696.0 glyphs/N_.glif
+1529533696.0 glyphs/N_tilde.glif
+1529533696.0 glyphs/O_.glif
+1529533696.0 glyphs/O_E_.glif
+1529533696.0 glyphs/O_acute.glif
+1529533696.0 glyphs/O_circumflex.glif
+1529533696.0 glyphs/O_dieresis.glif
+1529533696.0 glyphs/O_grave.glif
+1529533696.0 glyphs/O_slash.glif
+1529533696.0 glyphs/O_tilde.glif
+1529533696.0 glyphs/P_.glif
+1529533696.0 glyphs/Q_.glif
+1529533696.0 glyphs/R_.glif
+1529533696.0 glyphs/S_.glif
+1529533696.0 glyphs/T_.glif
+1529533696.0 glyphs/T__h.glif
+1529533696.0 glyphs/U_.glif
+1529533696.0 glyphs/U_acute.glif
+1529533696.0 glyphs/U_circumflex.glif
+1529533696.0 glyphs/U_dieresis.glif
+1529533696.0 glyphs/U_grave.glif
+1529533696.0 glyphs/V_.glif
+1529533696.0 glyphs/W_.glif
+1529533696.0 glyphs/X_.glif
+1529533696.0 glyphs/Y_.glif
+1529533696.0 glyphs/Y_acute.glif
+1529533696.0 glyphs/Y_dieresis.glif
+1529533696.0 glyphs/Z_.glif
+1529533696.0 glyphs/_notdef.glif
+1529533696.0 glyphs/_null.glif
+1529533696.0 glyphs/a.glif
+1529533696.0 glyphs/aacute.glif
+1529533696.0 glyphs/acircumflex.glif
+1529533696.0 glyphs/acute.glif
+1529533696.0 glyphs/adieresis.glif
+1529533696.0 glyphs/ae.glif
+1529533696.0 glyphs/agrave.glif
+1529533696.0 glyphs/ampersand.glif
+1529533696.0 glyphs/aring.glif
+1529533696.0 glyphs/asterisk.glif
+1529533696.0 glyphs/at.glif
+1529533696.0 glyphs/atilde.glif
+1529533696.0 glyphs/b.glif
+1529533696.0 glyphs/backslash.glif
+1529533696.0 glyphs/bar.glif
+1529533696.0 glyphs/braceleft.cap.glif
+1529533696.0 glyphs/braceleft.glif
+1529533696.0 glyphs/braceright.cap.glif
+1529533696.0 glyphs/braceright.glif
+1529533696.0 glyphs/bracketleft.cap.glif
+1529533696.0 glyphs/bracketleft.glif
+1529533696.0 glyphs/bracketright.cap.glif
+1529533696.0 glyphs/bracketright.glif
+1529533696.0 glyphs/brokenbar.glif
+1529533696.0 glyphs/bullet.glif
+1529533696.0 glyphs/c.glif
+1529533696.0 glyphs/ccedilla.glif
+1529533696.0 glyphs/cedilla.glif
+1529533696.0 glyphs/cent.glif
+1529533696.0 glyphs/checkbox.glif
+1529533696.0 glyphs/checkboxchecked.glif
+1529533696.0 glyphs/circleddigiteight.glif
+1529533696.0 glyphs/circleddigitfive.glif
+1529533696.0 glyphs/circleddigitfour.glif
+1529533696.0 glyphs/circleddigitnine.glif
+1529533696.0 glyphs/circleddigitone.glif
+1529533696.0 glyphs/circleddigitseven.glif
+1529533696.0 glyphs/circleddigitsix.glif
+1529533696.0 glyphs/circleddigitten.glif
+1529533696.0 glyphs/circleddigitthree.glif
+1529533696.0 glyphs/circleddigittwo.glif
+1529533696.0 glyphs/circleddigitzero.glif
+1529533696.0 glyphs/circumflex.glif
+1529533696.0 glyphs/cloud.glif
+1529533696.0 glyphs/colon.glif
+1529533696.0 glyphs/comma.glif
+1529533696.0 glyphs/copyright.glif
+1529533696.0 glyphs/d.glif
+1529533696.0 glyphs/dagger.glif
+1529533696.0 glyphs/degree.glif
+1529533696.0 glyphs/dieresis.glif
+1529533696.0 glyphs/divide.glif
+1529533696.0 glyphs/dollar.glif
+1529533696.0 glyphs/dotlessi.glif
+1529533696.0 glyphs/e.glif
+1529533696.0 glyphs/eacute.glif
+1529533696.0 glyphs/ecircumflex.glif
+1529533696.0 glyphs/edieresis.glif
+1529533696.0 glyphs/egrave.glif
+1529533696.0 glyphs/eight.glif
+1529533696.0 glyphs/ellipsis.glif
+1529533696.0 glyphs/emdash.cap.glif
+1529533696.0 glyphs/emdash.glif
+1529533696.0 glyphs/endash.cap.glif
+1529533696.0 glyphs/endash.glif
+1529533696.0 glyphs/equal.glif
+1529533696.0 glyphs/exclam.glif
+1529533696.0 glyphs/exclamdown.cap.glif
+1529533696.0 glyphs/exclamdown.glif
+1529533696.0 glyphs/f.glif
+1529533696.0 glyphs/f_f.glif
+1529533696.0 glyphs/f_f_i.glif
+1529533696.0 glyphs/f_f_l.glif
+1529533696.0 glyphs/fi.glif
+1529533696.0 glyphs/five.glif
+1529533696.0 glyphs/fl.glif
+1529533696.0 glyphs/four.glif
+1529533696.0 glyphs/g.glif
+1529533696.0 glyphs/germandbls.glif
+1529533696.0 glyphs/grave.glif
+1529533696.0 glyphs/greater.glif
+1529533696.0 glyphs/guillemotleft.cap.glif
+1529533696.0 glyphs/guillemotleft.glif
+1529533696.0 glyphs/guillemotright.cap.glif
+1529533696.0 glyphs/guillemotright.glif
+1529533696.0 glyphs/guilsinglleft.cap.glif
+1529533696.0 glyphs/guilsinglleft.glif
+1529533696.0 glyphs/guilsinglright.cap.glif
+1529533696.0 glyphs/guilsinglright.glif
+1529533696.0 glyphs/h.glif
+1529533696.0 glyphs/hyphen.cap.glif
+1529533696.0 glyphs/hyphen.glif
+1529533696.0 glyphs/i.glif
+1529533696.0 glyphs/iacute.glif
+1529533696.0 glyphs/icircumflex.glif
+1529533696.0 glyphs/idieresis.glif
+1529533696.0 glyphs/igrave.glif
+1529533696.0 glyphs/j.glif
+1529533696.0 glyphs/k.glif
+1529533696.0 glyphs/l.glif
+1529533696.0 glyphs/less.glif
+1529533696.0 glyphs/m.glif
+1529533696.0 glyphs/minus.glif
+1529533696.0 glyphs/multiply.glif
+1529533696.0 glyphs/n.glif
+1529533696.0 glyphs/nine.glif
+1529533696.0 glyphs/ntilde.glif
+1529533696.0 glyphs/numbersign.glif
+1529533696.0 glyphs/numero.glif
+1529533696.0 glyphs/o.glif
+1529533696.0 glyphs/oacute.glif
+1529533696.0 glyphs/ocircumflex.glif
+1529533696.0 glyphs/odieresis.glif
+1529533696.0 glyphs/oe.glif
+1529533696.0 glyphs/ograve.glif
+1529533696.0 glyphs/one.glif
+1529533696.0 glyphs/ordfeminine.glif
+1529533696.0 glyphs/ordmasculine.glif
+1529533696.0 glyphs/oslash.glif
+1529533696.0 glyphs/otilde.glif
+1529533696.0 glyphs/p.glif
+1529533696.0 glyphs/paragraph.glif
+1529533696.0 glyphs/parenleft.cap.glif
+1529533696.0 glyphs/parenleft.glif
+1529533696.0 glyphs/parenright.cap.glif
+1529533696.0 glyphs/parenright.glif
+1529533696.0 glyphs/percent.glif
+1529533696.0 glyphs/period.glif
+1529533696.0 glyphs/periodcentered.cap.glif
+1529533696.0 glyphs/periodcentered.glif
+1529533696.0 glyphs/plus.glif
+1529533696.0 glyphs/plusminus.glif
+1529533696.0 glyphs/q.glif
+1529533696.0 glyphs/question.glif
+1529533696.0 glyphs/questiondown.cap.glif
+1529533696.0 glyphs/questiondown.glif
+1529533696.0 glyphs/quotedbl.glif
+1529533696.0 glyphs/quotedblbase.glif
+1529533696.0 glyphs/quotedblleft.glif
+1529533696.0 glyphs/quotedblright.glif
+1529533696.0 glyphs/quoteleft.glif
+1529533696.0 glyphs/quoteright.glif
+1529533696.0 glyphs/quotesinglbase.glif
+1529533696.0 glyphs/quotesingle.glif
+1529533696.0 glyphs/r.glif
+1529533696.0 glyphs/registered.glif
+1529533696.0 glyphs/ring.glif
+1529533696.0 glyphs/s.glif
+1529533696.0 glyphs/section.glif
+1529533696.0 glyphs/semicolon.glif
+1529533696.0 glyphs/seven.glif
+1529533696.0 glyphs/six.glif
+1529533696.0 glyphs/slash.glif
+1529533696.0 glyphs/space.glif
+1529533696.0 glyphs/squareddigiteight.glif
+1529533696.0 glyphs/squareddigitfive.glif
+1529533696.0 glyphs/squareddigitfour.glif
+1529533696.0 glyphs/squareddigitnine.glif
+1529533696.0 glyphs/squareddigitone.glif
+1529533696.0 glyphs/squareddigitseven.glif
+1529533696.0 glyphs/squareddigitsix.glif
+1529533696.0 glyphs/squareddigitten.glif
+1529533696.0 glyphs/squareddigitthree.glif
+1529533696.0 glyphs/squareddigittwo.glif
+1529533696.0 glyphs/squareddigitzero.glif
+1529533696.0 glyphs/sterling.glif
+1529533696.0 glyphs/sunbehindcloud.glif
+1529533696.0 glyphs/sunrayswhite.glif
+1529533696.0 glyphs/t.glif
+1529533696.0 glyphs/thinspace.glif
+1529533696.0 glyphs/three.glif
+1529533696.0 glyphs/tilde.glif
+1529533696.0 glyphs/trademark.glif
+1529533696.0 glyphs/two.glif
+1529533696.0 glyphs/u.glif
+1529533696.0 glyphs/uacute.glif
+1529533696.0 glyphs/ucircumflex.glif
+1529533696.0 glyphs/udieresis.glif
+1529533696.0 glyphs/ugrave.glif
+1529533696.0 glyphs/umbrella.glif
+1529533696.0 glyphs/underscore.glif
+1529533696.0 glyphs/v.glif
+1529533696.0 glyphs/velvetyne.glif
+1529533696.0 glyphs/w.glif
+1529533696.0 glyphs/www.glif
+1529533696.0 glyphs/x.glif
+1529533696.0 glyphs/y.glif
+1529533696.0 glyphs/yacute.glif
+1529533696.0 glyphs/ydieresis.glif
+1529533696.0 glyphs/yen.glif
+1529533696.0 glyphs/z.glif
+1529533696.0 glyphs/zero.glif
+1529533696.0 groups.plist
+1529533696.0 kerning.plist
+1529533696.0 metainfo.plist</string>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>

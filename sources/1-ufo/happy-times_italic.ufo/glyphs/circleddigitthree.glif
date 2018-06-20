@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circleddigitthree" format="1">
+<glyph name="circleddigitthree" format="2">
   <advance width="1516"/>
+  <anchor x="722" y="510" name="top"/>
+  <anchor x="891" y="1098" name="bottom"/>
   <outline>
     <contour>
       <point x="689" y="668" type="line"/>
@@ -77,12 +79,6 @@
       <point x="758" y="50" type="curve" smooth="yes"/>
       <point x="392" y="50"/>
       <point x="140" y="313"/>
-    </contour>
-    <contour>
-      <point x="722" y="510" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="891" y="1098" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

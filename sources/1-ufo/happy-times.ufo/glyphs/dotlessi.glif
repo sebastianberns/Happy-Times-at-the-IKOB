@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi" format="1">
+<glyph name="dotlessi" format="2">
   <advance width="526"/>
   <unicode hex="0131"/>
+  <guideline x="368" y="1045" angle="90" identifier="GInVaGtEj1"/>
+  <guideline x="193" y="891" angle="90" identifier="XfPRHh5JPH"/>
+  <anchor x="267" y="959" name="top"/>
   <outline>
     <contour>
       <point x="183" y="80" type="line"/>
@@ -23,43 +26,13 @@
       <point x="43" y="805" type="line"/>
       <point x="70" y="750" type="line"/>
     </contour>
-    <contour>
-      <point x="267.0" y="959" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>368</integer>
-          <key>y</key>
-          <integer>1045</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>193</integer>
-          <key>y</key>
-          <integer>891</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.GInVaGtEj1</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.XfPRHh5JPH</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

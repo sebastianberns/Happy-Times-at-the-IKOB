@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bracketleft.cap" format="1">
+<glyph name="bracketleft.cap" format="2">
   <advance width="560"/>
+  <guideline x="594" y="-231" angle="0" identifier="xhK7LKFsPu"/>
   <outline>
     <component base="bracketleft" yOffset="116"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>594</integer>
-          <key>y</key>
-          <integer>-231</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.xhK7LKFsPu</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

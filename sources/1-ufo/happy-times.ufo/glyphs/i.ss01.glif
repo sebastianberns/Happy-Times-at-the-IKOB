@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i.ss01" format="1">
+<glyph name="i.ss01" format="2">
   <advance width="526"/>
+  <guideline x="368" y="1045" angle="90" identifier="5T1hoDblCD"/>
+  <guideline x="193" y="891" angle="90" identifier="EwCZxgB36i"/>
   <outline>
     <contour>
       <point x="183" y="80" type="line"/>
@@ -31,44 +33,12 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>368</integer>
-          <key>y</key>
-          <integer>1045</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>193</integer>
-          <key>y</key>
-          <integer>891</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.5158</real>
-        <real>0.1993</real>
-        <real>0.9852</real>
-        <real>0.7</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.5T1hoDblCD</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.EwCZxgB36i</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.5158,0.1993,0.9852,0.7</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j" format="1">
+<glyph name="j" format="2">
   <advance width="501"/>
   <unicode hex="006A"/>
+  <guideline x="396" y="997" angle="90" identifier="U68u1t3CJI"/>
+  <guideline x="220" y="785" angle="90" identifier="oC4gRVj4Nb"/>
   <outline>
     <contour>
       <point x="361" y="919" type="line"/>
@@ -31,125 +33,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>396</integer>
-          <key>y</key>
-          <integer>997</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>220</integer>
-          <key>y</key>
-          <integer>785</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>backgroud</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>x</key>
-                  <integer>346</integer>
-                  <key>y</key>
-                  <integer>913</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>326</integer>
-                  <key>y</key>
-                  <integer>933</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>31</integer>
-                  <key>y</key>
-                  <integer>799</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>58</integer>
-                  <key>y</key>
-                  <integer>744</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>151</integer>
-                  <key>y</key>
-                  <integer>782</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>171</integer>
-                  <key>y</key>
-                  <integer>762</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>j</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>501</integer>
-        </dict>
-      </dict>
+      <key>com.typemytype.robofont.guideline.magnetic.U68u1t3CJI</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.oC4gRVj4Nb</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="1310"/>
+  <unicode hex="00C8"/>
+  <guideline x="399" y="1840" angle="0" identifier="HKYLIGkTE7"/>
+  <outline>
+    <component base="E"/>
+    <component base="grave" xOffset="385" yOffset="436"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.HKYLIGkTE7</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="d" format="1">
+<glyph name="d" format="2">
   <advance width="1019"/>
   <unicode hex="0064"/>
+  <guideline x="619" y="258" angle="0" identifier="vGy6O9vL3K"/>
+  <guideline x="783" y="849" angle="0" identifier="HShFle45KO"/>
   <outline>
     <contour>
       <point x="655" y="0" type="curve"/>
@@ -15,7 +17,7 @@
       <point x="762" y="107" type="curve"/>
       <point x="734" y="107" type="line"/>
       <point x="789" y="348"/>
-      <point x="1057.7741285810698" y="1230.9137619368994"/>
+      <point x="1057.7741285811" y="1230.9137619369"/>
       <point x="1095" y="1355" type="curve"/>
       <point x="724" y="1355" type="line"/>
       <point x="714" y="1295" type="line"/>
@@ -62,41 +64,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>619</integer>
-          <key>y</key>
-          <integer>258</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>783</integer>
-          <key>y</key>
-          <integer>849</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.HShFle45KO</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.vGy6O9vL3K</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

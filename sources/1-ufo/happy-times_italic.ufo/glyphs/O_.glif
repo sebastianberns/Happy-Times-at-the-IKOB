@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="O" format="1">
+<glyph name="O" format="2">
   <advance width="1518"/>
   <unicode hex="004F"/>
+  <anchor x="1055" y="1395" name="top"/>
   <outline>
     <contour>
       <point x="670" y="80" type="curve"/>
@@ -30,9 +31,6 @@
       <point x="110" y="445" type="curve" smooth="yes"/>
       <point x="110" y="152"/>
       <point x="287" y="-20"/>
-    </contour>
-    <contour>
-      <point x="1055" y="1395" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

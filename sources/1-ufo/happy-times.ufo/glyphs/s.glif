@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="s" format="1">
+<glyph name="s" format="2">
   <advance width="800"/>
   <unicode hex="0073"/>
+  <guideline x="567" y="979" angle="90" identifier="UXOoud2I3w"/>
+  <guideline x="135" y="71" angle="90" identifier="FC6iD8Fbyc"/>
+  <guideline x="340" y="784" angle="90" identifier="TD1klZO6Fl"/>
   <outline>
     <contour>
       <point x="652" y="643" type="line"/>
@@ -56,53 +59,12 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>567</integer>
-          <key>y</key>
-          <integer>979</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>135</integer>
-          <key>y</key>
-          <integer>71</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>340</integer>
-          <key>y</key>
-          <integer>784</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.FC6iD8Fbyc</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.TD1klZO6Fl</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.UXOoud2I3w</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

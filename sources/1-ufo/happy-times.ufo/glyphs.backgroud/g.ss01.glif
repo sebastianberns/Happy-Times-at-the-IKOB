@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.ss01" format="2">
+  <advance width="926"/>
+  <outline>
+    <contour>
+      <point x="555" y="-236" type="move" smooth="yes"/>
+      <point x="853" y="-240" type="line"/>
+      <point x="873" y="-220" type="line"/>
+      <point x="843" y="-79" type="line"/>
+      <point x="562" y="-79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

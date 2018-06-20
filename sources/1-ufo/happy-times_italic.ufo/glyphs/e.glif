@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="e" format="1">
-  <advance width="852.0"/>
+<glyph name="e" format="2">
+  <advance width="852"/>
   <unicode hex="0065"/>
+  <guideline x="271" y="491" angle="90" identifier="zsSCibygCl"/>
+  <anchor x="601" y="959" name="top"/>
   <outline>
     <contour>
-      <point x="656.0" y="939.0" type="curve"/>
-      <point x="320.0" y="939.0"/>
+      <point x="656" y="939" type="curve"/>
+      <point x="320" y="939"/>
       <point x="40" y="576"/>
       <point x="40" y="278" type="curve"/>
       <point x="40" y="108"/>
-      <point x="122.0" y="-20.0"/>
-      <point x="310.0" y="-20.0" type="curve"/>
-      <point x="526.0" y="-20.0"/>
-      <point x="692.0" y="166.0"/>
-      <point x="754.0" y="236.0" type="curve"/>
-      <point x="686.0" y="236.0" type="line"/>
-      <point x="632.0" y="188.0"/>
-      <point x="538.0" y="94.0"/>
-      <point x="413.0" y="94.0" type="curve"/>
-      <point x="292.0" y="94.0"/>
-      <point x="226.0" y="186.0"/>
-      <point x="226.0" y="338.0" type="curve"/>
-      <point x="226.0" y="647.0"/>
-      <point x="453.0" y="876.0"/>
-      <point x="596.0" y="876.0" type="curve"/>
-      <point x="655.0" y="876.0"/>
+      <point x="122" y="-20"/>
+      <point x="310" y="-20" type="curve"/>
+      <point x="526" y="-20"/>
+      <point x="692" y="166"/>
+      <point x="754" y="236" type="curve"/>
+      <point x="686" y="236" type="line"/>
+      <point x="632" y="188"/>
+      <point x="538" y="94"/>
+      <point x="413" y="94" type="curve"/>
+      <point x="292" y="94"/>
+      <point x="226" y="186"/>
+      <point x="226" y="338" type="curve"/>
+      <point x="226" y="647"/>
+      <point x="453" y="876"/>
+      <point x="596" y="876" type="curve"/>
+      <point x="655" y="876"/>
       <point x="690" y="838"/>
       <point x="690" y="782" type="curve"/>
       <point x="690" y="711"/>
@@ -37,33 +39,13 @@
       <point x="852" y="641"/>
       <point x="852" y="788" type="curve"/>
       <point x="852" y="872"/>
-      <point x="786.0" y="939.0"/>
-    </contour>
-    <contour>
-      <point x="601" y="959" type="move" name="top"/>
+      <point x="786" y="939"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>271</integer>
-          <key>y</key>
-          <integer>491</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.zsSCibygCl</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

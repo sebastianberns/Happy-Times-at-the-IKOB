@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="1">
+<glyph name="E" format="2">
   <advance width="1310"/>
   <unicode hex="0045"/>
+  <guideline x="1100" y="1038" angle="90" identifier="EtGKwgdNko"/>
+  <anchor x="670" y="1395" name="top"/>
   <outline>
     <contour>
       <point x="470" y="660" type="line"/>
@@ -39,29 +41,11 @@
       <point x="940" y="116" type="curve"/>
       <point x="470" y="116" type="line"/>
     </contour>
-    <contour>
-      <point x="670.0" y="1395.0" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>1100</integer>
-          <key>y</key>
-          <integer>1038</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.EtGKwgdNko</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

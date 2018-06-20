@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="y" format="1">
+<glyph name="y" format="2">
   <advance width="938"/>
   <unicode hex="0079"/>
+  <guideline x="382" y="-54" angle="0" identifier="TyLeU064Tt"/>
+  <anchor x="594" y="959" name="top"/>
   <outline>
     <contour>
       <point x="330" y="-50" type="curve"/>
@@ -47,31 +49,11 @@
       <point x="250" y="745"/>
       <point x="291" y="418"/>
     </contour>
-    <contour>
-      <point x="594" y="959" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>382</integer>
-          <key>y</key>
-          <integer>-54</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.TyLeU064Tt</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

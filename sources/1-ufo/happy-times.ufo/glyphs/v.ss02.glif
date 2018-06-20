@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="v.ss02" format="1">
+<glyph name="v.ss02" format="2">
   <advance width="960"/>
+  <guideline x="624" y="278" angle="0" identifier="NITta3mGPQ"/>
   <outline>
     <contour>
       <point x="620" y="0" type="line"/>
@@ -23,32 +24,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>624</integer>
-          <key>y</key>
-          <integer>278</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9798</real>
-        <real>0.1633</real>
-        <real>1.0</real>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.NITta3mGPQ</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,1</string>
     </dict>
   </lib>
 </glyph>

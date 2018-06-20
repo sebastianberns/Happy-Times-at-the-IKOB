@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi" format="1">
+<glyph name="dotlessi" format="2">
   <advance width="584"/>
   <unicode hex="0131"/>
+  <guideline x="184" y="570" angle="76" identifier="S4wHu0dlfX"/>
+  <anchor x="422" y="959" name="top"/>
   <outline>
     <contour>
       <point x="272" y="127" type="line"/>
@@ -31,29 +33,11 @@
       <point x="316" y="132"/>
       <point x="292" y="107" type="curve"/>
     </contour>
-    <contour>
-      <point x="422" y="959" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>76.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>184</integer>
-          <key>y</key>
-          <integer>570</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.S4wHu0dlfX</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

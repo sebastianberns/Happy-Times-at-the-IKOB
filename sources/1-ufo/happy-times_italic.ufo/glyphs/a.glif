@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="a" format="1">
+<glyph name="a" format="2">
   <advance width="996"/>
   <unicode hex="0061"/>
+  <guideline x="581" y="258" angle="0" identifier="Meg9rPyTCK"/>
+  <guideline x="770" y="849" angle="0" identifier="w9lSVE9BX6"/>
+  <anchor x="663" y="959" name="top"/>
   <outline>
     <contour>
       <point x="599" y="214" type="line"/>
@@ -53,47 +56,13 @@
       <point x="753" y="704" type="curve"/>
       <point x="783" y="704" type="line"/>
     </contour>
-    <contour>
-      <point x="663" y="959" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>581</integer>
-          <key>y</key>
-          <integer>258</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>770</integer>
-          <key>y</key>
-          <integer>849</integer>
-        </dict>
-      </array>
+      <key>com.typemytype.robofont.guideline.magnetic.Meg9rPyTCK</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.w9lSVE9BX6</key>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>
