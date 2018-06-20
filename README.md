@@ -4,6 +4,8 @@ In December 2016, german graphic designer [Matthias Hübner](http://possible.is/
 
 Happy Times at the IKOB was designed by [Lucas Le Bihan](http://dreamsoffice.fr/).
 
+This is a fork by [Sebastian Berns](http://sebastianberns.com/).
+
 ## Specimen
 
 ![Ikob](documentation/images/ikob_3.jpg)
